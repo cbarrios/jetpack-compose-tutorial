@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Compose Tutorial</string>
+    <string name="contact_profile_picture">Contact profile picture</string>
 </resources>
